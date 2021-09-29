@@ -114,8 +114,8 @@ const owner = confi.ownerN
 const mods = confi.mods
 
 //---------𝗥𝗘𝗗𝗘𝗦 𝗦𝗢𝗖𝗜𝗔𝗟𝗘𝗦---------
-const soportefg = 'https://chat.whatsapp.com/G5sXrkhJ0pb0Tu8nhWLaFK' 
-const instafg = 'https://www.instagram.com/fg98._'
+const soportefg = 'https://chat.whatsapp.com/JwYypzLA3Cq86bC8rjO0T8' 
+const instafg = 'https://instagram.com/trapy_tomojado?utm_medium=copy_link'
 //--anti delete 
 antidel = false
 ngetik = false
@@ -132,7 +132,7 @@ baterai = {
 const vcard1 = 'BEGIN:VCARD\n' 
  + 'VERSION:3.0\n' 
  + 'FN:FG98\n'
- + 'ORG:Dueño de DyLuxBot;\n' 
+ + 'ORG:Dueño de ByNacoBot;\n' 
  + `TEL;type=CELL;type=VOICE;waid=${owner}:+${owner}\n`
  + 'END:VCARD'
       
