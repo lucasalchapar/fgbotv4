@@ -1,8 +1,8 @@
 /*============ FG98 ============
 
-    🇩 🇾 🇱 🇺 🇽  𝗩4  template
+    NACO EL BOT TRAPYTO
 
-============ FG98 ============*/
+============ NEBT ============*/
 
  //--  Conectar a WhatsApp
 const {
@@ -751,7 +751,7 @@ case 'solicitud':
 if (!isVerify) return reply(userB(prefix))
   if (isBanned) return reply(banf())
   yoi = q
-  if (args.length < 1) return reply('✳️ Ingrese las funciones que desee en el Bot *DyLux*')
+  if (args.length < 1) return reply('✳️ Ingrese las funciones que desee en el Bot *Trapy*')
   if (yoi.length > 200 ) return reply('El texto supera el límite, su solicitud es rechazada !')
   _solicitud.push(yoi)
   fs.writeFileSync('./result/reportes/solicitud.json', JSON.stringify(_solicitud))
